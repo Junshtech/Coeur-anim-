@@ -1,0 +1,10 @@
+body {
+    background-color: #000;    
+    margin: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  h1{
+      transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
